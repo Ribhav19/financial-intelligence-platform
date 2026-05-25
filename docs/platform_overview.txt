@@ -1,0 +1,12 @@
+# Platform Overview
+
+The project investigates AI-driven financial intelligence systems capable of combining:
+- market analysis,
+- portfolio analytics,
+- adaptive learning,
+- reinforcement learning workflows,
+- and educational paper trading environments.
+
+The platform was designed to explore scalable financial intelligence infrastructure integrating machine learning and quantitative analytics into unified decision-support systems.
+
+This repository currently serves as a technical overview and research showcase.
